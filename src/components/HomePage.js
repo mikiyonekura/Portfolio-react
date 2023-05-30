@@ -4,7 +4,7 @@ import jsImage from "../Images/js.png";
 import firebaseImage from "../Images/firebase.jpg";
 /*import profileImage from "../Images/sibainu.jpg";*/
 import chervil from "../Images/chervil.jpg"
-import node from "../Images/node.jpeg"
+import node from "../Images/node.png"
 import python from '../Images/python.png'
 import {Link} from 'react-router-dom'
 
